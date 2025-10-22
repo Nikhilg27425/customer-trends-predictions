@@ -66,7 +66,7 @@ The **interactive Power BI dashboard** presents:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. **Boost Subscriptions:**  
    Subscription performance is weak. Promote exclusive benefits to convert loyal non-subscribers.
@@ -85,7 +85,7 @@ The **interactive Power BI dashboard** presents:
 
 ---
 
-## 7. How to Use
+## How to Use
 
 ### Step 1: Database Setup
 - Install and configure **PostgreSQL** on your system.
@@ -106,7 +106,7 @@ The **interactive Power BI dashboard** presents:
 
 ---
 
-## 8. Technology Stack
+## Technology Stack
 
 - **Programming Language:** Python  
 - **Libraries:** Pandas, Psycopg2, SQLAlchemy  
@@ -116,7 +116,7 @@ The **interactive Power BI dashboard** presents:
 
 ---
 
-## 9. Project Outcomes
+## Project Outcomes
 
 This project provides a data-driven foundation for enhancing multiple business areas, including:
 
@@ -127,7 +127,7 @@ This project provides a data-driven foundation for enhancing multiple business a
 
 ---
 
-## 10. Author
+## Author
 
 **Nikhil Gupta**  
 Email: [23ucs752@lnmiit.ac.in]  
