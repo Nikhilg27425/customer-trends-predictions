@@ -85,5 +85,54 @@ The **interactive Power BI dashboard** presents:
 
 ---
 
-## 📂 Repository Structure
+## 7. How to Use
+
+### Step 1: Database Setup
+- Install and configure **PostgreSQL** on your system.
+- Create a new database dedicated to this project.
+
+### Step 2: Data Loading
+- Open the Jupyter Notebook file: `Customer_Shopping_Behavior_Analysis.ipynb`.
+- Update the database connection string to match your local PostgreSQL configuration.
+- Execute the notebook cells to load the dataset `customer_shopping_behavior.csv` into the PostgreSQL database.
+
+### Step 3: Run SQL Analysis
+- Open `customer_behavior_sql_queries.sql` in your preferred SQL client (e.g., pgAdmin or DBeaver).
+- Execute the queries to reproduce the business insights and analytical results.
+
+### Step 4: Visualize in Power BI
+- Open the Power BI report file: `customer_behavior_dashboard.pbix` in **Power BI Desktop**.
+- Connect it to your PostgreSQL database to refresh and explore the interactive dashboards.
+
+---
+
+## 8. Technology Stack
+
+- **Programming Language:** Python  
+- **Libraries:** Pandas, Psycopg2, SQLAlchemy  
+- **Database:** PostgreSQL  
+- **Visualization Tool:** Power BI  
+- **Supporting Tools:** Jupyter Notebook, DBeaver/pgAdmin, Excel  
+
+---
+
+## 9. Project Outcomes
+
+This project provides a data-driven foundation for enhancing multiple business areas, including:
+
+- Customer engagement and retention  
+- Marketing and promotional strategy efficiency  
+- Product performance and category management  
+- Loyalty and subscription program optimization  
+
+---
+
+## 10. Author
+
+**Nikhil Gupta**  
+Email: [23ucs752@lnmiit.ac.in]  
+LinkedIn / GitHub: [https://github.com/Nikhilg27425]
+
+---
+
 
